@@ -1,9 +1,9 @@
 # Hi, I'm Christopher Tytone 👋
 
-Computer Science student at the **University of South Carolina**
-**B.S. in Computer Science** • Concentration in **Artificial Intelligence** • Minor in **Business Administration**
+Computer Science student focused on building software that automates repetitive work and simplifies everyday workflows.
 
-I build software that **automates repetitive work, organizes information, and simplifies everyday workflows**.
+**University of South Carolina**
+**B.S. in Computer Science** • Concentration in **Artificial Intelligence** • Minor in **Business Administration**
 
 ## 🚀 What I'm Working On
 

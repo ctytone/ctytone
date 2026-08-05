@@ -2,15 +2,17 @@
 
 Computer Science student focused on building software that automates repetitive work and simplifies everyday workflows.
 
-**University of South Carolina**
-**B.S. in Computer Science** • Concentration in **Artificial Intelligence** • Minor in **Business Administration**
+🎓 **University of South Carolina**
+- B.S. in Computer Science
+- Concentration in Artificial Intelligence
+- Minor in Business Administration
 
 ## 🚀 What I'm Working On
 
-* AI-powered workflow automation
-* Productivity and organization tools
-* Personal software projects that solve real problems
-* Exploring Micro-SaaS ideas
+• Building tools that eliminate repetitive work
+• Exploring AI-powered workflow automation
+• Turning personal productivity tools into real products
+• Learning how to build Micro-SaaS businesses
 
 ## 🛠️ Tech Stack
 
@@ -18,10 +20,10 @@ Computer Science student focused on building software that automates repetitive 
 Python • Java • JavaScript
 
 **Tools & Frameworks**
-React • Next.js • FastAPI • Supabase • Git • GitHub • VS Code
+React • Next.js • FastAPI • Supabase
 
 **APIs & AI**
-Google APIs • OpenAI API • ChatGPT
+Google APIs • OpenAI API
 
 ## 📫 Connect
 

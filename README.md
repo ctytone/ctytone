@@ -30,13 +30,13 @@ If I catch myself repeating the same task over and over, there's a good chance I
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages**:
 Python • Java • JavaScript
 
-**Tools & Frameworks**
+**Tools & Frameworks**:
 React • Next.js • FastAPI • Supabase
 
-**APIs & AI**
+**APIs & AI**:
 Google APIs • OpenAI API
 
 ## 📫 Connect

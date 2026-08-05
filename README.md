@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Christopher Tytone 👋
 
-<!--
-**ctytone/ctytone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the **University of South Carolina**
+**B.S. in Computer Science** • Concentration in **Artificial Intelligence** • Minor in **Business Administration**
 
-Here are some ideas to get you started:
+I build software that **automates repetitive work, organizes information, and simplifies everyday workflows**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+* AI-powered workflow automation
+* Productivity and organization tools
+* Personal software projects that solve real problems
+* Exploring Micro-SaaS ideas
+
+## 🛠️ Tech Stack
+
+**Languages**
+Python • Java • JavaScript
+
+**Tools & Frameworks**
+React • Next.js • FastAPI • Supabase • Git • GitHub • VS Code
+
+**APIs & AI**
+Google APIs • OpenAI API • ChatGPT
+
+## 📫 Connect
+
+* **Email:** [christyt1806@gmail.com](mailto:christyt1806@gmail.com)
+* **LinkedIn:** [https://linkedin.com/in/christopher-tytone](https://www.linkedin.com/in/christopher-tytone/)

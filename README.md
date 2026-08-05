@@ -1,18 +1,32 @@
 # Hi, I'm Christopher Tytone 👋
 
-Computer Science student focused on building software that automates repetitive work and simplifies everyday workflows.
+I'm a Computer Science student who loves building systems.
 
-🎓 **University of South Carolina**
-- B.S. in Computer Science
-- Concentration in Artificial Intelligence
-- Minor in Business Administration
+Most of my projects start with the same thought:
+
+> "There has to be a better way to do this."
+
+Whether it's organizing information, automating repetitive work, or connecting different tools together, I enjoy building software that makes everyday life feel a little less manual.
+
+🎓 University of South Carolina  
+B.S. Computer Science • Artificial Intelligence • Business Administration
+
+---
 
 ## 🚀 What I'm Working On
 
-• Building tools that eliminate repetitive work
-• Exploring AI-powered workflow automation
-• Turning personal productivity tools into real products
-• Learning how to build Micro-SaaS businesses
+- AI-powered workflow automation
+- Productivity tools I'll actually use every day
+- Turning personal projects into products
+- Learning how to build great software, not just write code
+
+## 💭 What You'll Find Here
+
+Most of my repositories have one thing in common:
+
+They started because something annoyed me.
+
+If I catch myself repeating the same task over and over, there's a good chance I'll try to automate it.
 
 ## 🛠️ Tech Stack
 

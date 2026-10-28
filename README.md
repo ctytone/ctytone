@@ -1,45 +1,22 @@
-# Hi, I'm Christopher Tytone 👋
+# Christopher Tytone
 
-I'm a Computer Science student who loves building systems.
+CS student at the University of South Carolina (AI concentration, Business minor).
 
-Most of my projects start with the same thought:
+I mostly build tools for problems I keep running into myself. If I've done the same tedious thing three times, I'll usually try to script it. A lot of what's here started that way.
 
-> "There has to be a better way to do this."
+## Some things I've built
 
-Whether it's organizing information, automating repetitive work, or connecting different tools together, I enjoy building software that makes everyday life feel a little less manual.
+- **Markdown → Google Tasks importer**: Python tool that turns my notes into Google Tasks so I stop copying them over by hand
+- **Preliminary estimate tool**: an AI estimating tool for a custom home builder, built during my internship at Bunch Interests
 
-🎓 University of South Carolina  
-B.S. Computer Science • Artificial Intelligence • Business Administration
+## Right now
 
----
+Working on AI workflow automation, and trying to turn some of my personal projects into things other people would actually use.
 
-## 🚀 What I'm Working On
+## Stack
 
-- AI-powered workflow automation
-- Productivity tools I'll actually use every day
-- Turning personal projects into products
-- Learning how to build great software, not just write code
+Python, Java, JavaScript · React, Next.js, FastAPI, Supabase · Google APIs, OpenAI API
 
-## 💭 What You'll Find Here
+## Contact
 
-Most of my repositories have one thing in common:
-
-They started because something annoyed me.
-
-If I catch myself repeating the same task over and over, there's a good chance I'll try to automate it.
-
-## 🛠️ Tech Stack
-
-**Languages**:
-Python • Java • JavaScript
-
-**Tools & Frameworks**:
-React • Next.js • FastAPI • Supabase
-
-**APIs & AI**:
-Google APIs • OpenAI API
-
-## 📫 Connect
-
-* **Email:** [christyt1806@gmail.com](mailto:christyt1806@gmail.com)
-* **LinkedIn:** [https://linkedin.com/in/christopher-tytone](https://www.linkedin.com/in/christopher-tytone/)
+[christyt1806@gmail.com](mailto:christyt1806@gmail.com) · [LinkedIn](https://linkedin.com/in/christopher-tytone)
